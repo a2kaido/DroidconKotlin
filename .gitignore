@@ -72,9 +72,6 @@ fastlane/test_output
 .DS_Store
 
 buildboth.sh
-google-services.json
-GoogleService-Info.plist
-GoogleService-Info.plist
 Pods/
 *.xcworkspace
 .kotlin

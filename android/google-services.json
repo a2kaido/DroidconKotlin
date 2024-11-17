@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362342313254",
+    "project_id": "droidcon-a6f8e",
+    "storage_bucket": "droidcon-a6f8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362342313254:android:b77136a728be9932b025e7",
+        "android_client_info": {
+          "package_name": "com.github.a2kaido.droidcon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmnF_MRyaU-62wwWkFGdwMyZvt3vkvvPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
